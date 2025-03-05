@@ -1,6 +1,6 @@
 # Yandex SmartCaptcha Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/yandex-captcha)
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/yandex-captcha)
 
 使用 Bright Data 高级 CAPTCHA 解决方案轻松绕过 Yandex SmartCaptcha。通过利用机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理基础设施，确保对目标站点的无缝且稳定的访问。  
 
