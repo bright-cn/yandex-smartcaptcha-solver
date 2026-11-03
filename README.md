@@ -1,88 +1,89 @@
-# Yandex SmartCaptcha Solver  
+# Yandex SmartCaptcha 破解工具  
 
-[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/yandex-captcha)
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/yandex-captcha)
 
-使用 Bright Data 高级 CAPTCHA 解决方案轻松绕过 Yandex SmartCaptcha。通过利用机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理基础设施，确保对目标站点的无缝且稳定的访问。  
+借助 Bright Data 先进的 CAPTCHA 破解技术，轻松绕过 Yandex SmartCaptcha。利用机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)和强大的代理基础设施，确保顺畅、稳定地访问目标网站。  
 
-Bright Data 的 CAPTCHA Solver 是我们 [**抓取浏览器**](https://www.bright.cn/products/scraping-browser) 和 [**网络解锁器 API**](https://www.bright.cn/products/web-unlocker) 的内置功能，可为您处理最复杂的 CAPTCHA 挑战，提供完整解决方案。  
+Bright Data 的 CAPTCHA 破解是 [**抓取浏览器**](https://www.bright.cn/products/scraping-browser)和 [**网络解锁器 API**](https://www.bright.cn/products/web-unlocker)的内置功能，可提供完整的解决方案，应对最复杂的 CAPTCHA 挑战。  
+
 
 ## 功能  
-- **快速解决 CAPTCHA**：自动高准确率、高速度地解决 Yandex SmartCaptcha。  
-- **IP 轮换**：通过自动重试和动态 IP 调整来避免封禁。  
-- **浏览器指纹**：模拟真实用户行为，[绕过复杂的机器人检测](https://www.bright.cn/blog/web-data/anti-scraping-techniques)。  
-- **JavaScript 渲染**：应对 JavaScript 密集型网站上的动态内容。  
-- **全球地域覆盖**：精准解锁任意全球区域的内容。  
+- **快速破解 CAPTCHA**：自动破解 Yandex SmartCaptcha，准确率高、速度快。  
+- **IP 轮换**：通过自动重试和动态 IP 调整避免封禁。  
+- **浏览器指纹识别**：模拟真实用户活动，以[绕过复杂的机器人检测](https://www.bright.cn/blog/web-data/anti-scraping-techniques)。  
+- **JavaScript 渲染**：处理大量使用 JavaScript 的网站上的动态内容。  
+- **全球地理覆盖**：精准解锁全球任何地区的内容。  
 - **无缝集成**：可与 Puppeteer、Playwright 和 Selenium 等工具轻松配合使用。  
-- **事件监控**：监测 CAPTCHA 解决事件，如检测到、成功或失败等。  
+- **事件监控**：跟踪 CAPTCHA 破解事件，例如检测、成功或失败。  
 
-## 为什么选择 Yandex SmartCaptcha Solver  
+## 为什么选择 Yandex SmartCaptcha 破解工具  
 
-### **受到全球 20,000+ 客户信赖**  
-Bright Data 的 CAPTCHA Solver 以卓越的可靠性和性能赢得开发者、企业和组织的信赖。  
+### **深受全球 20,000 多家客户信赖**  
+Bright Data 的验证码破解凭借卓越的可靠性和性能，深受开发者、企业和大型组织信赖。  
 
-### **由高端代理网络提供支持**  
-拥有超过 1 亿个 IP 地址和强大的地理定位功能，我们的代理基础设施能确保顺畅且持续的 CAPTCHA 解决过程。  
+### **由优质代理网络提供支持**  
+我们的代理基础设施拥有超过 1 亿个 IP，并具备高级地理位置定向功能，可确保顺畅、不间断地破解 CAPTCHA。  
 
-### **AI 驱动的 CAPTCHA 解决**  
-我们的 CAPTCHA Solver 采用先进的 AI 逻辑自动检测、分析并解决 CAPTCHA。它会处理重试、指纹和请求头等问题，助您绕过最复杂的反爬措施。  
+### **AI 驱动的 CAPTCHA 破解**  
+我们的 CAPTCHA 破解工具采用先进的 AI 逻辑，自动检测、分析和破解 CAPTCHA。它可处理重试、指纹识别和请求标头，从而绕过最复杂的反机器人措施。  
 
-### **为开发者打造**  
-- 便于与 Puppeteer、Playwright 和 Selenium 进行集成。  
-- 完全可自定义 CAPTCHA 解决策略。  
-- 自动重试和动态 IP 调整，保障采集过程的连续性。
+### **专为开发者打造**  
+- 可轻松集成 Puppeteer、Playwright 和 Selenium。  
+- 可全面自定义 CAPTCHA 破解行为设置。  
+- 通过自动重试和动态 IP 调整，确保爬虫任务不间断运行。
 
-> **专业提示 💡**  
->> 已经拥有 CAPTCHA 解决方案？可配合我们为 [Puppeteer](https://www.bright.cn/integration/puppeteer)、[Playwright](https://www.bright.cn/integration/playwright) 和 [Selenium](https://www.bright.cn/integration/selenium) 提供的代理，尽量降低 CAPTCHA 出现频率。
+> **专业提示 💡**
+>> 已经有 CAPTCHA 破解方案？搭配我们适用于 [Puppeteer](https://www.bright.cn/integration/puppeteer)、[Playwright](https://www.bright.cn/integration/playwright) 和 [Selenium](https://www.bright.cn/integration/selenium) 的代理，进一步减少 CAPTCHA 挑战。
 
 ## 工作原理  
 
-Bright Data 的 CAPTCHA Solver 集成在 **Scraping Browser** 和 **Web Unlocker** 中，让您能够轻松应对所有 CAPTCHA。  
+Bright Data 的验证码破解功能已集成到**抓取浏览器**和**网络解锁器**中，让 CAPTCHA 破解变得轻而易举。  
 
-### **自动解决 CAPTCHA**  
-CAPTCHA Solver 会实时自动检测并处理 CAPTCHA。只需启用此功能，它就会从检测到解决全程自动化。  
+### **自动破解 CAPTCHA**  
+CAPTCHA 破解工具会实时自动检测并解决 CAPTCHA。只需启用此功能，它便会处理从检测到破解的所有流程。  
 
-#### 示例工作流程：  
-1. **检测 CAPTCHA**：检测到 CAPTCHA 类型（例如 PerimeterX）。  
-2. **解决 CAPTCHA**：使用 AI 逻辑解决 CAPTCHA。  
-3. **解决失败则重试**：若解决失败，系统会自动尝试更换 IP 并重试。  
-4. **返回结果**：一旦成功通过，系统会直接允许访问目标站点。  
+#### 工作流程示例：  
+1. **检测 CAPTCHA**：破解工具识别 CAPTCHA 类型（例如 PerimeterX）。  
+2. **破解 CAPTCHA**：破解工具使用 AI 逻辑解决 CAPTCHA。  
+3. **失败后重试**：如果破解失败，系统会自动使用新 IP 重试。  
+4. **返回结果**：破解成功后，系统即可无缝访问目标网站。  
 
 ## 支持的 CAPTCHA 类型  
 
-Bright Data 的 CAPTCHA Solver 支持多种类型的 CAPTCHA，包括：  
+Bright Data 的 CAPTCHA 破解支持多种 CAPTCHA 类型，包括：  
 
 - [**DataDome**](https://www.bright.cn/products/web-unlocker/captcha-solver/datadome)
 - [**reCAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/recaptcha)
-- [**Click Captcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/click-captcha)
-- [**Cloudflare**](https://www.bright.cn/products/web-unlocker/captcha-solver/Cloudflare)
+- [**点击式 CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/click-captcha)
+- [**Cloudflare**](https://brightdata.com/products/web-unlocker/captcha-solver/Cloudflare)
 - [**PerimeterX**](https://www.bright.cn/products/web-unlocker/captcha-solver/perimeterx)
 - [**SimpleCaptcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/simplecaptcha)
 - [**FunCaptcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/funcaptcha)
 - [**Cloudflare Turnstile**](https://www.bright.cn/products/web-unlocker/captcha-solver/cloudflare-turnstile)
-- [**AWS WAF Captcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/aws-waf-captcha)
+- [**AWS WAF CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/aws-waf-captcha)
 - [**GeeTest CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/geetest-captcha)
 - [**KeyCAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/keycaptcha)
-- [**Puzzle CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/puzzle-captcha)
+- [**拼图 CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/puzzle-captcha)
 - [**Yandex CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/yandex-captcha)
-- [**Image CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/image-captcha)
-- [**Text CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/text-captcha)
+- [**图片 CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/image-captcha)
+- [**文本 CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/text-captcha)
 
-## 高级定制  
+## 高级自定义  
 
-[Bright Data 的 CAPTCHA Solver](https://github.com/bright-cn/Captcha-solver) 支持高级定制，可根据特定场景对解决逻辑进行微调。
+[Bright Data 的 CAPTCHA 破解工具](https://github.com/bright-cn/Captcha-solver)支持高级自定义，可针对特定场景精细调整破解逻辑。
 
-### **针对 Yandex SmartCaptcha 挑战的自定义选项**  
+### **Yandex SmartCaptcha 挑战的自定义选项**  
 ```javascript
-// 为不同类型的 CAPTCHA 定义默认选项
+// Define default options for different CAPTCHA types
 function getCaptchaOptions(captchaType, customOptions = {}) {
   const defaultOptions = {
-    timeout: 30000, // 等待 CAPTCHA 解决的最大时间（毫秒）
-    check_timeout: 500, // 检查 CAPTCHA 状态的时间间隔（毫秒）
-    wait_networkidle: { timeout: 1000 }, // 等待网络闲置 1 秒
-    debug: false // 调试模式（默认关闭）
+    timeout: 30000, // Maximum time (in ms) to wait for CAPTCHA solving
+    check_timeout: 500, // Interval (in ms) to check the CAPTCHA's status
+    wait_networkidle: { timeout: 1000 }, // Wait until the network is idle for 1 second
+    debug: false // Debug mode (disabled by default)
   };
 
-  // 定义针对不同 CAPTCHA 的选择器
+  // Define CAPTCHA-specific selectors
   const captchaSelectors = {
     DataDome: { selector: '#datadome-captcha', success_selector: '#captcha-success' },
     reCAPTCHA: { selector: '.g-recaptcha', success_selector: '.recaptcha-success' },
@@ -101,14 +102,14 @@ function getCaptchaOptions(captchaType, customOptions = {}) {
     TextCAPTCHA: { selector: '.text-captcha', success_selector: '.text-captcha-success' }
   };
 
-  // 获取对应 CAPTCHA 类型的选择器
+  // Get the correct selectors for the given CAPTCHA type
   const selectedOptions = captchaSelectors[captchaType] || {};
 
-  // 将默认选项、CAPTCHA 类型专属选项和自定义选项合并
+  // Merge default options with selected CAPTCHA-specific options and any custom overrides
   return { ...defaultOptions, ...selectedOptions, ...customOptions };
 }
 
-// 不同 CAPTCHA 类型的示例用法
+// Example usage for different CAPTCHA types
 const ddOptions = getCaptchaOptions('DataDome', { timeout: 40000, debug: true });
 const recaptchaOptions = getCaptchaOptions('reCAPTCHA', { debug: true });
 const hcaptchaOptions = getCaptchaOptions('hCaptcha');
@@ -117,56 +118,57 @@ console.log(ddOptions);
 console.log(recaptchaOptions);
 console.log(hcaptchaOptions);
 
-// 示例错误处理
+// Example error handling
 try {
   if (!document.querySelector(ddOptions.selector)) {
-    throw new Error(`未找到 CAPTCHA 元素，使用选择器：${ddOptions.selector}`);
+    throw new Error(`CAPTCHA element not found using selector: ${ddOptions.selector}`);
   }
 
-  // 在此处编写您的 CAPTCHA 解决逻辑
+  // Your CAPTCHA-solving logic here
   solveCaptcha(ddOptions);
 } catch (error) {
-  console.error('无法解决 CAPTCHA：', error.message);
+  console.error('Failed to solve CAPTCHA:', error.message);
 }
 ```
 
-## 事件监控  
-针对高级应用场景，您可以监控 CAPTCHA 解决事件：  
-- `Captcha.detected`: 发现 CAPTCHA 并开始解决。  
-- `Captcha.solveFinished`: 成功解决 CAPTCHA。  
-- `Captcha.solveFailed`: 解决失败。  
+## **事件监控**  
+跟踪 CAPTCHA 破解事件，以处理高级用例：  
+- `Captcha.detected`：检测到 CAPTCHA，破解已开始。  
+- `Captcha.solveFinished`：CAPTCHA 破解成功。  
+- `Captcha.solveFailed`：CAPTCHA 破解失败。  
 
-## 定价
+## **定价**
 
-| **方案**            | **价格（每 1K 结果）**   | **月度费用**   | **描述**                                     |  
-|---------------------|-------------------------|---------------|----------------------------------------------|  
-| **按量付费**        | $1.50                  | 无需承诺       | 适合临时性采集需求。                         |  
-| **Growth**          | $1.27                  | $499          | 为需要扩展的团队定制。                       |  
-| **Business**        | $1.12                  | $999          | 适合大规模采集业务。                         |  
-| **Premium**         | $1.05                  | $1,999        | 高级功能+优先支持。                          |  
-| **Enterprise**      | 定制报价                | 联系我们       | 满足顶级企业需求的定制解决方案。             |  
+| **套餐**         | **价格（每 1,000 个结果）** | **每月费用** | **说明**                                  |  
+|-------------------|------------------------|------------------|------------------------------------------------|  
+| **免费套餐** | 免费 | $0 | 每月 5,000 次免费请求，无需信用卡。 |
+| **按使用量付费** | $1.50                 | 无需承诺    | 适合临时网页抓取需求。               |  
+| **成长版**        | $1.30                 | $499             | 专为扩展中的团队量身打造。                    |  
+| **商业版**      | $1.10                 | $999             | 适合大规模爬虫任务。  |  
+| **高级版**       | $1.00                 | $1,999           | 提供高级功能和优先支持。       |  
+| **企业版**    | 定制报价          | 联系我们       | 为顶级企业需求提供定制套餐。   |  
 
-🚀 **特别优惠**：首次充值可获得最高 **$500** 金额的同额匹配！  
+🚀 **特别优惠**：首次充值可获得等额赠金，最高 **$500**！  
 
-## 为什么开发者喜爱 Yandex SmartCaptcha Solver  
-- **简单集成**：可与 Puppeteer、Playwright 和 Selenium 无缝结合。  
-- **先进 AI 逻辑**：自动处理重试、CAPTCHA 解决、指纹、IP 轮换和高级请求头等。  
-- **内置浏览器**：无需管理外部浏览器即可渲染 JavaScript。  
-- **实时洞察**：可通过实时仪表板监测网络性能。  
-- **优质支持**：全球范围内 24/7 客服支持，功能持续更新。  
+## **开发者喜爱 Yandex SmartCaptcha 破解工具的原因**  
+- **轻松集成**：可与 Puppeteer、Playwright 和 Selenium 无缝配合使用。  
+- **先进的 AI 逻辑**：自动处理重试、CAPTCHA 破解、指纹识别、IP 轮换和高级请求标头。  
+- **内置浏览器**：进行 JavaScript 渲染时，无需管理外部浏览器。  
+- **实时洞察**：通过实时控制面板监控网络性能。  
+- **卓越支持**：提供全天候全球客户支持，并且每天都会添加新功能。  
 
-## 常见问题
+## **常见问题**  
 
-### **Yandex SmartCaptcha Solver 如何工作？**  
-该解决方案使用先进的 AI 逻辑自动检测并解决 Yandex SmartCaptcha。  
+### **Yandex SmartCaptcha 破解工具如何工作？**  
+该破解工具采用先进的 AI 逻辑，自动检测并破解 Yandex SmartCaptcha。  
 
-### **能同时处理多个 CAPTCHA 吗？**  
-可以，系统可同时处理多种 CAPTCHA 类型，保证访问不中断。  
+### **它能同时处理多个 CAPTCHA 吗？**  
+可以。该解决方案可扩展并发处理多种 CAPTCHA 类型，确保访问不中断。  
 
-### **如果 CAPTCHA 解决失败怎么办？**  
-系统会自动重试。如仍无法解决，请联系我们 24/7 全天候客服进行排障。  
+### **如果 CAPTCHA 破解失败会怎样？**  
+系统会自动尝试重试。如果问题仍然存在，请联系我们的全天候支持团队进行故障排查。  
 
 ---
 
-## 告别 Yandex SmartCaptcha  
-立即开始免费试用，体验 Bright Data 为您带来的无缝 [Yandex SmartCaptcha 解决方案](https://www.bright.cn/products/web-unlocker/captcha-solver/yandex-captcha)！  
+## **告别 Yandex SmartCaptcha**  
+立即开始免费试用，体验[使用 Bright Data 无缝破解 Yandex SmartCaptcha！](https://www.bright.cn/products/web-unlocker/captcha-solver/yandex-captcha) 
